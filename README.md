@@ -1,1 +1,3 @@
-# rust_learning
+rustc --version
+rustc main.rs
+cargo run
